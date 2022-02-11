@@ -11,3 +11,5 @@ https://github.com/jhirono/amlsecurity
 ### How to create a secure workspace
 https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-create-secure-workspace
 
+### Configure access to Azure Data Lake Storage
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/data-management/best-practices/data-lake-access#configure-access-to-azure-data-lake-storage
