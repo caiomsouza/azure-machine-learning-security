@@ -13,3 +13,6 @@ https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-create-secure-w
 
 ### Configure access to Azure Data Lake Storage
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/data-management/best-practices/data-lake-access#configure-access-to-azure-data-lake-storage
+
+### Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials
+https://www.youtube.com/watch?v=D0qsjJYj5Ow
