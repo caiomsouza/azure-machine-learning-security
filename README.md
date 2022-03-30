@@ -19,3 +19,6 @@ https://www.youtube.com/watch?v=D0qsjJYj5Ow
 
 ### Organize and set up Azure Machine Learning environments
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-resource-organization
+
+### Azure Machine Learning best practices for enterprise security
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-enterprise-security
