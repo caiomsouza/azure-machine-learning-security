@@ -22,3 +22,6 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
 
 ### Azure Machine Learning best practices for enterprise security
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-enterprise-security
+
+### Azure security baseline for Azure Machine Learning
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/machine-learning-security-baseline
