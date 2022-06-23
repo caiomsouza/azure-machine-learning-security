@@ -6,12 +6,14 @@ Curated materials about Azure Machine Learning + Security.
 
 The first recomendation is to watch the video below:
 
+[![Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials](https://img.youtube.com/vi/D0qsjJYj5Ow/0.jpg)](https://www.youtube.com/watch?v=D0qsjJYj5Ow"Securing machine learning environments on Azure Machine Learning")
+
+
+Learn more at: http://aka.ms/data-scientists
+
 Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials
 https://www.youtube.com/watch?v=D0qsjJYj5Ow
 
-[![Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials](https://img.youtube.com/vi/D0qsjJYj5Ow/0.jpg)](https://www.youtube.com/watch?v=D0qsjJYj5Ow"Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials")
-
-Learn more at: http://aka.ms/data-scientists
 
 ### Configure a private endpoint for an Azure Machine Learning workspace
 https://docs.microsoft.com/en-gb/azure/machine-learning/how-to-configure-private-link?tabs=python
