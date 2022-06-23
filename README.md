@@ -25,3 +25,9 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
 
 ### Azure security baseline for Azure Machine Learning
 https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/machine-learning-security-baseline
+
+
+### To do 
+- Create a quickstart doc (PDF)
+- Labs
+- 
