@@ -2,6 +2,15 @@
 
 Curated materials about Azure Machine Learning + Security.
 
+### How do I start to learn about Azure Machine Learning Security? 
+
+The first recomendation is to watch the video below:
+
+# Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials
+https://www.youtube.com/watch?v=D0qsjJYj5Ow
+
+Learn more at: http://aka.ms/data-scientists
+
 ### Configure a private endpoint for an Azure Machine Learning workspace
 https://docs.microsoft.com/en-gb/azure/machine-learning/how-to-configure-private-link?tabs=python
 
@@ -14,8 +23,6 @@ https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-create-secure-w
 ### Configure access to Azure Data Lake Storage
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/data-management/best-practices/data-lake-access#configure-access-to-azure-data-lake-storage
 
-### Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials
-https://www.youtube.com/watch?v=D0qsjJYj5Ow
 
 ### Organize and set up Azure Machine Learning environments
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-resource-organization
