@@ -6,7 +6,7 @@ Curated materials about Azure Machine Learning + Security.
 
 The first recomendation is to watch the video below:
 
-# Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials
+Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials
 https://www.youtube.com/watch?v=D0qsjJYj5Ow
 
 Learn more at: http://aka.ms/data-scientists
