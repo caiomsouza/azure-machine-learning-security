@@ -8,12 +8,13 @@ The first recomendation is to watch the video (14 minutues) below called "Securi
 
 [![Securing machine learning environments on Azure Machine Learning](https://img.youtube.com/vi/D0qsjJYj5Ow/0.jpg)](https://www.youtube.com/watch?v=D0qsjJYj5Ow "Securing machine learning environments on Azure Machine Learning")
 
+### Lab 1 - Deploy Azure Machine Learning workspace
+Deploy Azure Machine Learning workspace using the ARM Template below:
+https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.machinelearningservices/machine-learning-end-to-end-secure
 
-### Lab 1 - Deploy Azure Machine Learning workspace (secure network configuration)
-
+### Lab 2 - Deploy Azure Machine Learning workspace (secure network configuration)
 Deploy Azure Machine Learning workspace (secure network configuration) using the ARM Template below:
 https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.machinelearningservices/machine-learning-workspace-vnet
-
 
 
 # Additional materials about AML and Security 
