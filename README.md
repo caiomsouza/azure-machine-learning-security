@@ -4,7 +4,7 @@ Curated materials about Azure Machine Learning + Security.
 
 ### How do I start to learn about Azure Machine Learning Security? 
 
-The first recomendation is to watch the video below:
+The first recomendation is to watch the video (14 minutues) below called "Securing machine learning environments on Azure Machine Learning | Machine Learning Essentials":
 
 [![Securing machine learning environments on Azure Machine Learning](https://img.youtube.com/vi/D0qsjJYj5Ow/0.jpg)](https://www.youtube.com/watch?v=D0qsjJYj5Ow "Securing machine learning environments on Azure Machine Learning")
 
