@@ -1,2 +1,4 @@
 .vscode/*
 !.vscode/launch.json
+.vs/*
+!.vs/launch.json
